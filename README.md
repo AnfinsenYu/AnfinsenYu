@@ -64,4 +64,6 @@ src="https://camo.githubusercontent.com/7b53063801ebbc1af5a5fb495c7e0b138779d740
 
 <img src="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" style="vertical-align: middle; margin-right: 8px;" alt="项目 Logo" />
   <img src=https://raw.githubusercontent.com/AnfinsenYu/AnfinsenYu/refs/heads/output/github-contribution-grid-snake.svg />
+  <img src=https://raw.githubusercontent.com/AnfinsenYu/AnfinsenYu/refs/heads/output/github-contribution-grid-snake-dark.svg />
+  
   <img src=https://github-readme-stats.vercel.app/api?username=AnfinsenYu&show_icons=true&theme=transparent />
