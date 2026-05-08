@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Anfinsen%20Yu&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+</p>
  <h1 align="center"> <a href="https://www.yuque.com/coderxiaoluo"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);ANFINSEN祝您今天愉快!&center=true&size=27"> </a> </h1>
 
 <div align="center" text-align: center; letter-spacing: 3px;">
@@ -65,5 +68,4 @@ src="https://camo.githubusercontent.com/7b53063801ebbc1af5a5fb495c7e0b138779d740
 <img src="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" style="vertical-align: middle; margin-right: 8px;" alt="项目 Logo" />
   <img src=https://raw.githubusercontent.com/AnfinsenYu/AnfinsenYu/refs/heads/output/github-contribution-grid-snake.svg />
   <img src=https://raw.githubusercontent.com/AnfinsenYu/AnfinsenYu/refs/heads/output/github-contribution-grid-snake-dark.svg />
-  
-  <img src=https://github-readme-stats.vercel.app/api?username=AnfinsenYu&show_icons=true&theme=transparent />
+
